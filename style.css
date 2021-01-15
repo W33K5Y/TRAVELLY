@@ -92,6 +92,7 @@ nav ul {
 .hero h3 {
   padding: 5rem;
 }
+/* ! Media Queries  */
 @media screen and (max-width: 932px) {
   html {
     font-size: 45%;
